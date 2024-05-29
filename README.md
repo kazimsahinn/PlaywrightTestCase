@@ -6,8 +6,7 @@ baseTest: Temel test ayarlarını sağlayan sınıf.<br/>
 homePage: Ana sayfa işlemlerini yapan sınıf.<br/>
 signupPage: Kayıt sayfası işlemlerini yapan sınıf.<br/>
 cartPage: Sepet işlemlerini yapan sınıf.<br/>
-com.microsoft.playwright: Playwright kütüphanesi.<br/>
-com.microsoft.playwright.options.SelectOption: Playwright tarafından sağlanan seçenekler sınıfı.<br/>
+
 ## Test İş Akışı<br/>
 **1. Giriş ve Sayfa Yüklemeleri**<br/>
 Test başlatılır ve temel ayarlar yapılır (baseTest.setUp()).<br/>
